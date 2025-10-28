@@ -1,6 +1,12 @@
 ## Hi there 👋
 
 My name is Bartosz and I'm currently a Computer Science student at the University of Gdańsk. 
+I also build web apps for commercial clients as a freelancer, currently open to collaborate on the next project. 
+
+I am currently learning the foundations of Computer Science, which mostly co-relate with my current course work. 
+
+In 2023 I graduated with a BA in Music Production from the British and Irish Institute of Modern Music. In my hitherto music works I've been largely inspired by artists like Brian Eno, Holly Herndon, and the Beatles. 
+
 
 <!--
 **berthemoose/berthemoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
