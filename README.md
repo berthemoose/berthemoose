@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Bartosz and I'm currently a Computer Science student at the University of Gdańsk. 
+My name is Bartosz and I'm a Computer Science student at the University of Gdańsk. 
 I also build web apps for commercial clients as a freelancer, currently open to collaborate on the next project. 
 
 In 2023 I graduated with a BA in Music Production from the British and Irish Institute of Modern Music. In my hitherto music works I've been largely inspired by artists like Brian Eno, Holly Herndon, and the Beatles. 
